@@ -5,13 +5,13 @@ Hello World
 """
 
 # Always prefer setuptools over distutils
-from setuptools import setup
+import setuptools
 import os
 
 with open("README.md", "r") as fh:
     long_description = fh.read()
 
-setup(
+setuptools.setup(
     name="example-pkg-your-username",
     version="0.0.2",
     author="John Morrison",
@@ -19,7 +19,7 @@ setup(
     description="Helper functions package",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/JohnMorrisonn/lambdata",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
