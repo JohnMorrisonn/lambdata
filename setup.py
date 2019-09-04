@@ -1,5 +1,5 @@
 """
-Hello World
+Some functions thrown together
 @author: John Morrison
 @url: 
 """
