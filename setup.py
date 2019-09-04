@@ -12,8 +12,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="lambdata_jjmorr13",
-    version="0.0.5",
+    name="lambdata-jjmorr13",
+    version="0.0.7",
     author="John Morrison",
     author_email="jjosephmorrison@gmail.com",
     description="Helper functions package",
