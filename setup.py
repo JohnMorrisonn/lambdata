@@ -13,7 +13,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="example-pkg-your-username",
-    version="0.0.2",
+    version="0.0.3",
     author="John Morrison",
     author_email="jjosephmorrison@gmail.com",
     description="Helper functions package",
