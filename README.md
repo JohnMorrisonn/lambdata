@@ -1,5 +1,6 @@
-# Helper functions for EDA
+#Helper functions for EDA
 
-This is a simple example package. You can use
-[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-to write your content.
+*##Train_val_test split function
+
+*##Plot Confusion Matrix Function
+
