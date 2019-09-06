@@ -13,7 +13,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="lambdata-jjmorr13",
-    version="0.0.7",
+    version="0.0.8",
     author="John Morrison",
     author_email="jjosephmorrison@gmail.com",
     description="Helper functions package",
